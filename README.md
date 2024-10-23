@@ -1,2 +1,2 @@
-Deep Learning project
-Bitcoin Price Prediction
+
+Bitcoin Price Prediction using LSTM
